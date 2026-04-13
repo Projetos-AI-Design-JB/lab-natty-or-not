@@ -1,11 +1,11 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Uma influencer Fake Natty 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo é um exemplo do avanço dos modelos de vídeo IA.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+- IA Generativa **[Google Veo 3.1]([https://aistudio.google.com/models/veo-3?])** geração de avatar virtual com voz;
+- IA Generativa **[Nano Banana 2](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
 - Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
 
 ## 🧐 Processo de Criação
